@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dbo="http://dbpedia.org/ontology/">
+
+<rdf:Description rdf:about="http://www.penemu.fake/penemu">
+    <foaf:name rdf:resource="http://www.penemu.fake/penemu/Benyamin_Holt"/>
+    <foaf:name rdf:resource="http://www.penemu.fake/penemu/Alexander_Graham_Bell"/>
+    <foaf:name rdf:resource="http://www.penemu.fake/penemu/Alessandro_Volta"/>
+    <foaf:name rdf:resource="http://www.penemu.fake/penemu/Nikola_Tesla"/>
+    <foaf:name rdf:resource="http://www.penemu.fake/penemu/Thomas_Alva_Edison"/>
+    <foaf:name rdf:resource="http://www.penemu.fake/penemu/Felix_Hoffman"/>
+    <foaf:name rdf:resource="http://www.penemu.fake/penemu/Dmitri_Mendeleev"/>
+    <foaf:name rdf:resource="http://www.penemu.fake/penemu/Alfred_Nobel"/>
+    <foaf:name rdf:resource="http://www.penemu.fake/penemu/Blaise_Pascal"/>
+    <foaf:name rdf:resource="http://www.penemu.fake/penemu/Galileo_Galilei"/>
+    <foaf:name rdf:resource="http://www.penemu.fake/penemu/John_Logie_Baird"/>
+    <foaf:name rdf:resource="http://www.penemu.fake/penemu/James_Watt"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.penemu.fake/penemu/Benyamin_Holt">
+    <rdfs:label>Benyamin Holt</rdfs:label>
+    <foaf:Image rdf:resource="https://drive.google.com/thumbnail?id=1pArCIPIOZ7AHnT9sKLfZJUF9gQ2zFJtJ"/>
+    <dbo:birthDate>1 Januari 1849</dbo:birthDate>
+    <dbo:birthPlace>Concord, New Hampshire</dbo:birthPlace>
+    <dbo:deathDate>5 Desember 1920</dbo:deathDate>
+    <dbo:deathPlace>Stockton, California</dbo:deathPlace>
+    <foaf:made>Traktor</foaf:made>
+    <dbo:nationality>Amerika</dbo:nationality>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.penemu.fake/penemu/Alexander_Graham_Bell">
+    <rdfs:label>Alexander Graham Bell</rdfs:label>
+    <foaf:Image rdf:resource="https://drive.google.com/thumbnail?id=1eht4fS5FfjdWmPjRGwo8pI5NYdG54HNk"/>
+    <dbo:birthDate>3 Maret 1847</dbo:birthDate>
+    <dbo:birthPlace>Edinburgh, Skotlandia, Britania Raya</dbo:birthPlace>
+    <dbo:deathDate>2 Agustus 1922</dbo:deathDate>
+    <dbo:deathPlace>Beinn Bhreagh, Nova Scotia, Kanada</dbo:deathPlace>
+    <foaf:made>Telepon</foaf:made>
+    <dbo:nationality>Amerika Serikat</dbo:nationality>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.penemu.fake/penemu/Alessandro_Volta">
+    <rdfs:label>Alessandro Volta</rdfs:label>
+    <foaf:Image rdf:resource="https://drive.google.com/thumbnail?id=1_iTx9p9Sj5bSpKRTn5KAoQO_pp3t6m50"/>
+    <dbo:birthDate>18 Februari 1745</dbo:birthDate>
+    <dbo:birthPlace>Como, Kadipaten Milan</dbo:birthPlace>
+    <dbo:deathDate>5 Maret 1827</dbo:deathDate>
+    <dbo:deathPlace>Como, Lombardia-Venesia, Italia</dbo:deathPlace>
+    <foaf:made>Batu Baterai</foaf:made>
+    <dbo:nationality>Italia</dbo:nationality>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.penemu.fake/penemu/Nikola_Tesla">
+    <rdfs:label>Nikola Tesla</rdfs:label>
+    <foaf:Image rdf:resource="https://drive.google.com/thumbnail?id=1rRmkOa-oIQiVUW-Ybu01CaC9860yU7gj"/>
+    <dbo:birthDate>10 Juli 1856</dbo:birthDate>
+    <dbo:birthPlace>Smiljan, Kekaisaran Austria</dbo:birthPlace>
+    <dbo:deathDate>7 Januari 1943</dbo:deathDate>
+    <dbo:deathPlace>New York City, New York, Amerika Serikat</dbo:deathPlace>
+    <foaf:made>Motor Listrik</foaf:made>
+    <dbo:nationality>Serbia</dbo:nationality>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.penemu.fake/penemu/Thomas_Alva_Edison">
+    <rdfs:label>Thomas Alva Edison</rdfs:label>
+    <foaf:Image rdf:resource="https://drive.google.com/thumbnail?id=1aCQk6CCNKUgttP7mqQ60Eo7hUP3cZS08"/>
+    <dbo:birthDate>11 Februari 1847</dbo:birthDate>
+    <dbo:birthPlace>Milan, Ohio, Amerika Serikat</dbo:birthPlace>
+    <dbo:deathDate>18 Oktober 1931</dbo:deathDate>
+    <dbo:deathPlace>West Orange, New Jersy, Amerika Serikat</dbo:deathPlace>
+    <foaf:made>Bola Lampu</foaf:made>
+    <dbo:nationality>Amerika Serikat</dbo:nationality>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.penemu.fake/penemu/Felix_Hoffman">
+    <rdfs:label>Felix Hoffman</rdfs:label>
+    <foaf:Image rdf:resource="https://drive.google.com/thumbnail?id=1_rn5ojBDvnkML3g4_B2CK6dEsb8K72Kx"/>
+    <dbo:birthDate>21 Januari 1868</dbo:birthDate>
+    <dbo:birthPlace>Ludwigsburg, Jerman</dbo:birthPlace>
+    <dbo:deathDate>8 Februari 1946</dbo:deathDate>
+    <dbo:deathPlace>Swiss</dbo:deathPlace>
+    <foaf:made>Aspirin</foaf:made>
+    <dbo:nationality>Jerman</dbo:nationality>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.penemu.fake/penemu/Dmitri_Mendeleev">
+    <rdfs:label>Dmitri Mendeleev</rdfs:label>
+    <foaf:Image rdf:resource="https://drive.google.com/thumbnail?id=19rOBreWx6sNP4txkx0rG4THesLT86r8m"/>
+    <dbo:birthDate>8 Februari 1834</dbo:birthDate>
+    <dbo:birthPlace>Verkhnie Aremzyani, Kekaisaran Rusia</dbo:birthPlace>
+    <dbo:deathDate>2 Februari 1907</dbo:deathDate>
+    <dbo:deathPlace>St.Petersburg, Kekaisaran Rusia</dbo:deathPlace>
+    <foaf:made>Tabel Periodik</foaf:made>
+    <dbo:nationality>Rusia</dbo:nationality>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.penemu.fake/penemu/Alfred_Nobel">
+    <rdfs:label>Alfred Nobel</rdfs:label>
+    <foaf:Image rdf:resource="https://drive.google.com/thumbnail?id=19hpQ4HBfYuPs6Oum_B9h53N9koZmwVCl"/>
+    <dbo:birthDate>21 Oktober 1833</dbo:birthDate>
+    <dbo:birthPlace>Stockholm, Swedia</dbo:birthPlace>
+    <dbo:deathDate>10 Desember 1896</dbo:deathDate>
+    <dbo:deathPlace>Sanremo, Italia</dbo:deathPlace>
+    <foaf:made>Dinamit</foaf:made>
+    <dbo:nationality>Swedia</dbo:nationality>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.penemu.fake/penemu/Blaise_Pascal">
+    <rdfs:label>Blaise Pascal</rdfs:label>
+    <foaf:Image rdf:resource="https://drive.google.com/thumbnail?id=1q-HB-V70wi6Ark-4CjmrPm7zMkAEdos3"/>
+    <dbo:birthDate>19 Juni 1623</dbo:birthDate>
+    <dbo:birthPlace>Clermont-Ferrand, Prancis</dbo:birthPlace>
+    <dbo:deathDate>19 Agustus 1662</dbo:deathDate>
+    <dbo:deathPlace>Paris, Prancis</dbo:deathPlace>
+    <foaf:made>Mesin Hitung</foaf:made>
+    <dbo:nationality>Prancis</dbo:nationality>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.penemu.fake/penemu/Galileo_Galilei">
+    <rdfs:label>Galileo Galilei</rdfs:label>
+    <foaf:Image rdf:resource="https://drive.google.com/thumbnail?id=1D4qRmV3ps_FzeLus5kt1mcq2Yln3mn9i"/>
+    <dbo:birthDate>15 Februari 1564</dbo:birthDate>
+    <dbo:birthPlace>Pisa, Toscana, Italia</dbo:birthPlace>
+    <dbo:deathDate>8 Januari 1642</dbo:deathDate>
+    <dbo:deathPlace>Arcetri, Toscana, Italia</dbo:deathPlace>
+    <foaf:made>Teleskop</foaf:made>
+    <dbo:nationality>Italia</dbo:nationality>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.penemu.fake/penemu/John_Logie_Baird">
+    <rdfs:label>John Logie Baird</rdfs:label>
+    <foaf:Image rdf:resource="https://drive.google.com/thumbnail?id=1nQoGvwJZIkAZHScBbW6JBItovuPthrjA"/>
+    <dbo:birthDate>14 Agustus 1888</dbo:birthDate>
+    <dbo:birthPlace>Helensburgh, Dunbartonshire, Skotlandia, Britania Raya</dbo:birthPlace>
+    <dbo:deathDate>14 Juni 1946</dbo:deathDate>
+    <dbo:deathPlace>Bexhill, Sussex, Inggris, Britania Raya</dbo:deathPlace>
+    <foaf:made>Televisi Berwarna</foaf:made>
+    <dbo:nationality>Inggris</dbo:nationality>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.penemu.fake/penemu/James_Watt">
+    <rdfs:label>James Watt</rdfs:label>
+    <foaf:Image rdf:resource="https://drive.google.com/thumbnail?id=1kmk7Hvdv7zJbQsCxO_kj6YUbCw8T8Q7R"/>
+    <dbo:birthDate>19 Januari 1736</dbo:birthDate>
+    <dbo:birthPlace>Greenock, Refrewshire, Skotlandia, Britania Raya,</dbo:birthPlace>
+    <dbo:deathDate>25 Agustus 1819</dbo:deathDate>
+    <dbo:deathPlace>Handsworth, Birmingham, Inggris, Britania Raya</dbo:deathPlace>
+    <foaf:made>Mesin Uap</foaf:made>
+    <dbo:nationality>Skotlandia</dbo:nationality>
+</rdf:Description>
+</rdf:RDF>
